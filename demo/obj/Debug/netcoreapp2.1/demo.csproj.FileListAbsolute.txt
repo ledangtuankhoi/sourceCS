@@ -1,0 +1,11 @@
+G:\TuanKhoi\soucreCS\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+G:\TuanKhoi\soucreCS\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+G:\TuanKhoi\soucreCS\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+G:\TuanKhoi\soucreCS\demo\bin\Debug\netcoreapp2.1\demo.dll
+G:\TuanKhoi\soucreCS\demo\bin\Debug\netcoreapp2.1\demo.pdb
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.dll
+G:\TuanKhoi\soucreCS\demo\obj\Debug\netcoreapp2.1\demo.pdb
