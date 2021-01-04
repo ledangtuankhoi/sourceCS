@@ -1,0 +1,14 @@
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\bin\Debug\buoi6.exe.config
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\bin\Debug\buoi6.exe
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\bin\Debug\buoi6.pdb
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.csprojResolveAssemblyReference.cache
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.Properties.Resources.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.csproj.GenerateResource.Cache
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.exe
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.pdb
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.frmListBox.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.frmMenu.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.frmBai1.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\Desktop_BuomBuom.Form5.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.frmBai3.resources
+E:\18607077_Ledangtuankhoi\buoi6\buoi6\obj\Debug\buoi6.frmBai6.resources

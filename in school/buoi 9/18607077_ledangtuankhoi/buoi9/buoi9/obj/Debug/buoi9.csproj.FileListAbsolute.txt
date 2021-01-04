@@ -1,0 +1,13 @@
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\buoi9.exe.config
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\buoi9.exe
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\buoi9.pdb
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\EntityFramework.dll
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\EntityFramework.SqlServer.dll
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\EntityFramework.xml
+E:\18607077_ledangtuankhoi\buoi9\buoi9\bin\Debug\EntityFramework.SqlServer.xml
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.csprojResolveAssemblyReference.cache
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.Form1.resources
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.Properties.Resources.resources
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.csproj.GenerateResource.Cache
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.exe
+E:\18607077_ledangtuankhoi\buoi9\buoi9\obj\Debug\buoi9.pdb

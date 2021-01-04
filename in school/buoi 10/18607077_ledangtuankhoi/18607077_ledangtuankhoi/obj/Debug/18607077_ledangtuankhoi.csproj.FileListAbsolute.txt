@@ -1,0 +1,15 @@
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.exe.config
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.csprojResolveAssemblyReference.cache
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form1.resources
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Properties.Resources.resources
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.csproj.GenerateResource.Cache
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form2.resources
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.exe
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.pdb
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.exe
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.pdb
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form3.resources
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.dll
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.dll
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.xml
+E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.xml

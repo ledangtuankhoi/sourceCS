@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TuanKhoi\\soucreCS\\demo\\demo.csproj",
+      "projectUniqueName": "G:\\TuanKhoi\\homework\\soucreCS\\demo\\demo.csproj",
       "projectName": "demo",
-      "projectPath": "G:\\TuanKhoi\\soucreCS\\demo\\demo.csproj",
+      "projectPath": "G:\\TuanKhoi\\homework\\soucreCS\\demo\\demo.csproj",
       "packagesPath": "C:\\Users\\Rio\\.nuget\\packages\\",
-      "outputPath": "G:\\TuanKhoi\\soucreCS\\demo\\obj\\",
+      "outputPath": "G:\\TuanKhoi\\homework\\soucreCS\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
