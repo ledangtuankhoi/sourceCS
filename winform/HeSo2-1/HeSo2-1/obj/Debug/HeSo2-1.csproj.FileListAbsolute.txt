@@ -1,1 +1,13 @@
 G:\TuanKhoi\homework\soucreCS\winform\HeSo2-1\HeSo2-1\bin\Debug\HeSo2-1.exe.config
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\bin\Debug\HeSo2-1.exe.config
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\bin\Debug\HeSo2-1.exe
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\bin\Debug\HeSo2-1.pdb
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\bin\Debug\EntityFramework.dll
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\bin\Debug\EntityFramework.xml
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2-1.csprojResolveAssemblyReference.cache
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2_1.Form1.resources
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2_1.Properties.Resources.resources
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2-1.csproj.GenerateResource.Cache
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2-1.exe
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2-1.pdb
+D:\sourceCS\winform\HeSo2-1\HeSo2-1\obj\Debug\HeSo2_1.FRMLOGIN.resources

@@ -12,9 +12,19 @@ namespace HeSo2_1
 {
     public partial class Form1 : Form
     {
+        private void frmLogin()
+        {
+            Form frm = new FRMLOGIN();
+            frm.ShowDialog();
+        }
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            frmLogin();
         }
     }
 }

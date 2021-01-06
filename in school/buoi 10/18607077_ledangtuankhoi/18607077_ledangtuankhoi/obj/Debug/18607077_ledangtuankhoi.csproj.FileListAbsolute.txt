@@ -13,3 +13,20 @@ E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFrame
 E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.dll
 E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.xml
 E:\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.exe.config
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.exe
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.pdb
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.exe
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\18607077_ledangtuankhoi.pdb
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.dll
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.dll
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.xml
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.csprojResolveAssemblyReference.cache
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form1.resources
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form2.resources
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form3.resources
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Properties.Resources.resources
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\18607077_ledangtuankhoi.csproj.GenerateResource.Cache
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form4.resources
+D:\sourceCS\in school\buoi 10\18607077_ledangtuankhoi\18607077_ledangtuankhoi\obj\Debug\_18607077_ledangtuankhoi.Form5.resources

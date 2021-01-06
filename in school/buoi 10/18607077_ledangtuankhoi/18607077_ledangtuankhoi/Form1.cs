@@ -84,5 +84,27 @@ namespace _18607077_ledangtuankhoi
         {
             Application.Exit();
         }
+
+        private void quảnLýHệThốngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            XemDanhMuc(1);
+        }
+
+        private void danhMụcThànhPhốToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new Form4();
+            frm.ShowDialog();
+        }
+
+        private void danhMụcKháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new Form5();
+            frm.ShowDialog();
+        }
     }
 }
